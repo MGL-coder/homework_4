@@ -1,0 +1,10 @@
+package any
+
+type SomeName struct {
+	FirstField byte
+	SecondField int
+	ThirdField byte
+	FourthField *bool
+	FifthField int
+	SixthField *byte
+}
